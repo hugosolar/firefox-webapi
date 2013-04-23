@@ -1,0 +1,10 @@
+{
+    "name": "playWebApi",
+    "description": "Jugando con las WebAPI de Firefox",
+    "developer": {
+        "name": "Webapi Play",
+        "url": "https://github.com/hugosolar/firefox-webapi"
+    },
+    "launch_path": "/index.html",
+    "default_locale": "es"
+}
